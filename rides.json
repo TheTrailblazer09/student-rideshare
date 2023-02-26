@@ -1,0 +1,22 @@
+{
+    "rides":[
+        {
+            "name":"Melisa",
+            "destination":"Trader Joe's",
+            "phone":"413-4134134",
+            "duration":0.5
+        },
+        {
+            "name":"Hackher",
+            "destination":"Winning",
+            "phone":"413-4134134",
+            "duration":24
+        },
+        {
+            "name":"Vani",
+            "destination":"Boston,MA",
+            "phone":"413-4134134",
+            "duration":3
+        }
+    ]
+}
