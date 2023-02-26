@@ -7,7 +7,7 @@ const img2=require("../assets/profile2.jpg");
 const img3=require("../assets/profile3.jpeg");
 
 export default function Rider(){
-    console.log(rides);
+   
     return (
         <View style={styles.container}>
             <HStack>
