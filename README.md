@@ -6,7 +6,7 @@
   
   - Clone the respository 
     ```bash
-    $ git clone https://github.com/student-rideshare.git
+    $ git clone https://github.com/TheTrailblazer09/student-rideshare.git
     ```
   
  - npm i to install all the packages
