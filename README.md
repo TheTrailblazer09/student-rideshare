@@ -2,7 +2,8 @@
 
 ## To run the app on your phone
 
-  -Download Expo Go 
+
+  - Download Expo Go 
   
   - Clone the respository 
     ```bash
